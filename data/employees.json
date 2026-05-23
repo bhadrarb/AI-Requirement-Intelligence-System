@@ -1,0 +1,59 @@
+[
+  {
+    "emp_id": "E001",
+    "name": "Arjun Kumar",
+    "skills": [
+      "backend",
+      "database"
+    ],
+    "experience": 4,
+    "current_project": "P1",
+    "active_task_count": 0
+  },
+  {
+    "emp_id": "E002",
+    "name": "Priya Sharma",
+    "skills": [
+      "frontend",
+      "testing"
+    ],
+    "experience": 3,
+    "current_project": "P1",
+    "active_task_count": 0
+  },
+  {
+    "emp_id": "E003",
+    "name": "Rahul Verma",
+    "skills": [
+      "backend",
+      "security",
+      "devops"
+    ],
+    "experience": 6,
+    "current_project": "P1",
+    "active_task_count": 0
+  },
+  {
+    "emp_id": "E004",
+    "name": "Sneha Patel",
+    "skills": [
+      "frontend",
+      "database"
+    ],
+    "experience": 2,
+    "current_project": "P1",
+    "active_task_count": 0
+  },
+  {
+    "emp_id": "E005",
+    "name": "Vikram Singh",
+    "skills": [
+      "devops",
+      "testing",
+      "backend"
+    ],
+    "experience": 5,
+    "current_project": "P1",
+    "active_task_count": 0
+  }
+]

@@ -1,0 +1,7002 @@
+[
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall generate monthly account statements",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support image uploads up to 20 MB",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Checkout pages shall load within 3 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Doctors shall be able to update patient records",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to upload requirement documents",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Medical reports shall load within 5 seconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Teachers shall upload lecture materials",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support horizontal scaling during sales",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain 99.99 percent uptime",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall support 2000 concurrent learners",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support failover recovery",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall encrypt all transaction data",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall maintain API response times below 500 milliseconds",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain backups every 24 hours",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patient records shall be encrypted at rest",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall support mobile and desktop browsers",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to block debit cards temporarily",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support 10000 active projects",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Students shall receive assignment deadline reminders",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support online quiz submission",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall allow product reviews and ratings",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall allow beneficiaries to be added after OTP verification",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Video lectures shall stream without buffering under normal conditions",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The dashboard shall refresh metrics in real time",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support cloud deployment",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support kanban-based task tracking",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support multilingual localization",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall generate completion certificates",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall recover from failures within 2 minutes",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain patient admission history",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall generate sprint reports",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall generate digital prescriptions",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support appointment scheduling",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support role-based access control",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall log all failed payment attempts",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support accessibility standards",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Students shall be able to enroll in courses",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall comply with healthcare privacy regulations",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Patients shall receive appointment reminders via SMS",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall retain logs for 180 days",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall detect duplicate requirements automatically",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to add products to the shopping cart",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall integrate with payment gateways",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support 50000 concurrent banking sessions",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support fund transfers between accounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall comply with PCI-DSS standards",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support coupon-based discounts",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive order tracking notifications",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Project managers shall assign tasks to developers",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall support UPI payment processing",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  }
+]

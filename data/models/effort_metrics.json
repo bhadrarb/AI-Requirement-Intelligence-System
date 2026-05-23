@@ -1,0 +1,6 @@
+{
+  "cv_mae_mean": 3.0447,
+  "cv_mae_std": 1.2333,
+  "train_mae": 1.021,
+  "n_samples": 30
+}

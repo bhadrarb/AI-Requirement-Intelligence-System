@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "The platform should comply with GDPR standards for quizzes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process patients within 2 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 19912 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to check-in.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in orders.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 2 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process loans within 3 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to transfers.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for transfers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search tracking using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to lectures.",
+    "label": "functional"
+  },
+  {
+    "text": "All payroll data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 41784 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process payments within 8 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search checkout using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "All wishlist logs shall be retained for 212 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting wishlist data.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to recruitment.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search leave requests using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search teams using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of appointments.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to availability.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 17 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search recruitment using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 95 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting projects data.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of catalog.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for courses.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for members.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 12715 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 95 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for appointments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 27231 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for shopping cart.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 95 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage teams.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting medical records data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 219 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for accounts.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All leave requests logs shall be retained for 306 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "All teams logs shall be retained for 315 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to certificates.",
+    "label": "functional"
+  },
+  {
+    "text": "All accounts logs shall be retained for 96 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of teams.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "All leave requests data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for members.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update students through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search loans using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 438 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process projects within 5 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of fines.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for students.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process rooms within 10 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for transfers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for accounts.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage leave requests.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search statements using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "All suppliers logs shall be retained for 151 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of orders.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 942 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 95 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All payroll logs shall be retained for 311 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update fines through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update transactions through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 42455 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of certificates.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for books.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All lectures data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting deadlines data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 27 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to suppliers.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 203 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All restaurants data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All statements data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for books.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to shopping cart.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search catalog using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in fines.",
+    "label": "functional"
+  },
+  {
+    "text": "All shipments logs shall be retained for 44 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in loans.",
+    "label": "functional"
+  },
+  {
+    "text": "All restaurants logs shall be retained for 129 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search payments using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "All warehouse logs shall be retained for 89 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 4208 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for quizzes.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting menus data.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search warehouse using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for warehouse.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage payments.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to quizzes.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for appointments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search reservations using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of ISBN.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update borrowing through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to checkout.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 810 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process ISBN within 1 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for students.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update rooms through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for loans.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage certificates.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage reservations.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to checkout.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting lectures data.",
+    "label": "functional"
+  },
+  {
+    "text": "All shopping cart logs shall be retained for 200 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 45318 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 462 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage quizzes.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for orders.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to fines.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting employees data.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for transfers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to delivery tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update delivery tracking through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage orders.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage statements.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in projects.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 892 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 14 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage members.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search suppliers using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 26 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All appointments logs shall be retained for 50 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All reservations data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search members using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for recruitment.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to stock.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 1334 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update lectures through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of students.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update teams through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update attendance through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting prescriptions data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 173 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of shopping cart.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search accounts using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to tasks.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting payments data.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All transfers logs shall be retained for 35 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting certificates data.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search fines using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All teams data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for statements.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search courses using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 98 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 811 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 98 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process suppliers within 2 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 28323 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in orders.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of loans.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update loans through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update rooms through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting restaurants data.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 527 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of accounts.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of transfers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to borrowing.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of orders.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting catalog data.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of certificates.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage orders.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of projects.",
+    "label": "functional"
+  },
+  {
+    "text": "All projects data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for checkout.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in teams.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 924 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for medical records.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search delivery tracking using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 22 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All restaurants logs shall be retained for 245 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for transfers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for statements.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update appointments through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of warehouse.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to recruitment.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 12325 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting lectures data.",
+    "label": "functional"
+  },
+  {
+    "text": "All attendance data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update transfers through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for rooms.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to loans.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting billing data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 5 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of quizzes.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to availability.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 20 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to delivery tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for checkout.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for orders.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for orders.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All courses data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of employees.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search orders using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "All recruitment data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All deadlines data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting statements data.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for teams.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All shipments data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 7 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 933 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 23 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of employees.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 8 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to transfers.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 3784 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 33246 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search certificates using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 3995 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting tasks data.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update payments through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process projects within 8 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage ISBN.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 98 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for borrowing.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All ISBN data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 23 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 18135 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All loans data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of projects.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search transfers using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update orders through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process quizzes within 1 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for ISBN.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for books.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search check-in using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "All shipments logs shall be retained for 343 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 778 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update transfers through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of rooms.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 193 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process menus within 4 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 15014 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All quizzes data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in tasks.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search payments using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting warehouse data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process tracking within 8 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for reports.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update quizzes through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of medical records.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to checkout.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 95 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of payments.",
+    "label": "functional"
+  },
+  {
+    "text": "All ISBN data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of projects.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for attendance.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of patients.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process deadlines within 10 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process billing within 7 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in statements.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of projects.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for checkout.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for borrowing.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 19 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 26 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of appointments.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update transactions through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 10 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting certificates data.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of certificates.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to transfers.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search shopping cart using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "All ISBN data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of reports.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update shipments through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting shipments data.",
+    "label": "functional"
+  },
+  {
+    "text": "All loans logs shall be retained for 117 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in rooms.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for rooms.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for statements.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process tasks within 4 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 18219 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for delivery tracking.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update rooms through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of tasks.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of tasks.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of reports.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update billing through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for transactions.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search appointments using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 19 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 15 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All payments data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for delivery tracking.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search employees using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for patients.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 19024 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for availability.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of lectures.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to members.",
+    "label": "functional"
+  },
+  {
+    "text": "All quizzes logs shall be retained for 174 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 6 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All lectures logs shall be retained for 280 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in students.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for borrowing.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for statements.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for menus.",
+    "label": "functional"
+  },
+  {
+    "text": "All suppliers data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting students data.",
+    "label": "functional"
+  },
+  {
+    "text": "All courses logs shall be retained for 261 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of appointments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to tasks.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search leave requests using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of menus.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of appointments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process orders within 2 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 22385 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update suppliers through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of shopping cart.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting deadlines data.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to loans.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 24178 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting appointments data.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in availability.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search wishlist using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of students.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in borrowing.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 1 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update warehouse through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage stock.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "All check-in logs shall be retained for 221 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search employees using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for ISBN.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All recruitment data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process fines within 8 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to students.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of loans.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of borrowing.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting check-in data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of appointments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for certificates.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 294 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to statements.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 10 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 15 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for suppliers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 15608 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 14 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to reservations.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process tasks within 2 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 22 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 515 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process availability within 3 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for tasks.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All appointments logs shall be retained for 239 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for projects.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 785 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 250 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to projects.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to catalog.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of loans.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search students using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update shipments through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update restaurants through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for borrowing.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in loans.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to members.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for statements.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search prescriptions using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "All payments logs shall be retained for 156 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of teams.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 14 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting books data.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of members.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for wishlist.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for rooms.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process ISBN within 3 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of shopping cart.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to lectures.",
+    "label": "functional"
+  },
+  {
+    "text": "All leave requests data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update leave requests through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "All payroll data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "All ISBN data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to orders.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for members.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process shopping cart within 6 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to recruitment.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 562 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of shipments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 790 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All payroll logs shall be retained for 94 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of loans.",
+    "label": "functional"
+  },
+  {
+    "text": "All shopping cart logs shall be retained for 46 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update deadlines through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage delivery tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process ISBN within 10 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All leave requests logs shall be retained for 188 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process billing within 5 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 10914 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of shipments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process orders within 3 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All restaurants data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update payroll through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of deadlines.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search warehouse using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage appointments.",
+    "label": "functional"
+  },
+  {
+    "text": "All students logs shall be retained for 336 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for lectures.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for statements.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage accounts.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to shopping cart.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 6882 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage quizzes.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of appointments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage reservations.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process orders within 8 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of lectures.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for books.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting stock data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 397 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 95 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process students within 1 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to lectures.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 447 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update certificates through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 29 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 682 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search payments using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting payments data.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of members.",
+    "label": "functional"
+  },
+  {
+    "text": "All loans data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update attendance through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of reports.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage accounts.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for quizzes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search transfers using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 13139 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All shipments data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of courses.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 19 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 20198 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of billing.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage teams.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update billing through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for recruitment.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of attendance.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process check-in within 10 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 336 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update attendance through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process billing within 2 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update restaurants through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for tracking.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 776 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for leave requests.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting rooms data.",
+    "label": "functional"
+  },
+  {
+    "text": "All rooms logs shall be retained for 174 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 21 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for orders.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in projects.",
+    "label": "functional"
+  },
+  {
+    "text": "All menus data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage reservations.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for stock.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting ISBN data.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in leave requests.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for reports.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of transactions.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of menus.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for courses.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to appointments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 582 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for lectures.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage patients.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to billing.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to teams.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage books.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting stock data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 898 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search patients using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in stock.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update certificates through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "All stock logs shall be retained for 196 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage projects.",
+    "label": "functional"
+  },
+  {
+    "text": "All students logs shall be retained for 131 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All wishlist logs shall be retained for 105 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting appointments data.",
+    "label": "functional"
+  },
+  {
+    "text": "All leave requests logs shall be retained for 172 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for shopping cart.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting leave requests data.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for projects.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 604 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All suppliers logs shall be retained for 121 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage teams.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search leave requests using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of tasks.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process payments within 6 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage books.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for warehouse.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of suppliers.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to teams.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for students.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for projects.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for medical records.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting employees data.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All books logs shall be retained for 139 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of shopping cart.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for reports.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of orders.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 546 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in borrowing.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting loans data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 14 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search wishlist using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process recruitment within 4 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 104 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 1 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for accounts.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 32751 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of certificates.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting deadlines data.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for transactions.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 21 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update borrowing through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for menus.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for delivery tracking.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All fines logs shall be retained for 271 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 22 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting transfers data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of leave requests.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 2538 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 738 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update rooms through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for restaurants.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "All orders logs shall be retained for 215 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of menus.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of reservations.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search transfers using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for transfers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting payroll data.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to check-in.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 13 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search appointments using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 95 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting courses data.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for teams.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 6395 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 25503 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting leave requests data.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update fines through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage reports.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for billing.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 98 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in projects.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for transactions.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for reservations.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All shipments logs shall be retained for 338 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage borrowing.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search warehouse using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to projects.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search wishlist using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process prescriptions within 2 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of menus.",
+    "label": "functional"
+  },
+  {
+    "text": "All shopping cart data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process appointments within 1 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "All shipments data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process accounts within 7 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for statements.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for stock.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for payroll.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 26 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for leave requests.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for orders.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to shopping cart.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for check-in.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 2728 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search transactions using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage accounts.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting payments data.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search orders using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 4 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to warehouse.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process warehouse within 7 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting payments data.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in fines.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of borrowing.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process delivery tracking within 6 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 28162 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All recruitment data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for reservations.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All reports data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for transfers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for billing.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to payments.",
+    "label": "functional"
+  },
+  {
+    "text": "All restaurants logs shall be retained for 163 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 487 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 27 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for quizzes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process payments within 4 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to reservations.",
+    "label": "functional"
+  },
+  {
+    "text": "All reservations logs shall be retained for 178 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting reservations data.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update reservations through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "All orders data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All reservations logs shall be retained for 131 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of patients.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting students data.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 32034 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process lectures within 1 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update shipments through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search leave requests using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of reservations.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for leave requests.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 40222 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting checkout data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting attendance data.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of orders.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 430 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process payments within 9 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 9 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All borrowing data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update tracking through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of delivery tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 501 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 7738 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for rooms.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update reports through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to transfers.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of projects.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage fines.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process orders within 5 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for students.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All restaurants logs shall be retained for 56 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of borrowing.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting accounts data.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update warehouse through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to loans.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search lectures using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of deadlines.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 39979 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 25351 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All payments data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of stock.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process employees within 5 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of stock.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for appointments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search tracking using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 22 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search transactions using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 98 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 238 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of tasks.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 1 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for members.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for certificates.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of delivery tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of books.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 98 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage patients.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search appointments using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 32114 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for statements.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in employees.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in appointments.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "All employees data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search orders using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for books.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All transfers logs shall be retained for 62 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update statements through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 25849 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 17037 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of quizzes.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for payroll.",
+    "label": "functional"
+  },
+  {
+    "text": "All restaurants data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in ISBN.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 43448 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage books.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for rooms.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 823 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of appointments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process reports within 1 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update checkout through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 95 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of billing.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 225 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All teams logs shall be retained for 40 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of teams.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of deadlines.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search appointments using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting employees data.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of suppliers.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of appointments.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to borrowing.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for reservations.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in transfers.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for ISBN.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 96 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process orders within 6 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of certificates.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for billing.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to books.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to ISBN.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 20 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All employees data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All employees logs shall be retained for 316 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for suppliers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting orders data.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search orders using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of tracking.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage certificates.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search suppliers using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for ISBN.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 407 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All check-in logs shall be retained for 288 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 21668 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of suppliers.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to rooms.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to payments.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update reservations through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All leave requests logs shall be retained for 239 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 3676 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update orders through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage certificates.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 286 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for patients.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search prescriptions using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 46729 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should enable tracking of books.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 7 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage recruitment.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of shopping cart.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update accounts through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of stock.",
+    "label": "functional"
+  },
+  {
+    "text": "All recruitment data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All transactions data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to courses.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support exporting students data.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 8407 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of transfers.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process members within 8 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All warehouse logs shall be retained for 254 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 5 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process warehouse within 7 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of orders.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage billing.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update certificates through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of leave requests.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to loans.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 38609 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to transfers.",
+    "label": "functional"
+  },
+  {
+    "text": "All reservations data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All wishlist data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage wishlist.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for students.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in rooms.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 602 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 30495 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of restaurants.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to billing.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 23452 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update tasks through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update borrowing through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 17 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 99 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process appointments within 7 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All members logs shall be retained for 295 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process employees within 10 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in shopping cart.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should enable tracking of transactions.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 881 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All checkout data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of reservations.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to lectures.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for payments.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 15 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for students.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to certificates.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process restaurants within 10 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All attendance logs shall be retained for 177 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All rooms data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 49206 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage recruitment.",
+    "label": "functional"
+  },
+  {
+    "text": "Users can search reports using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process wishlist within 6 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All payments data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for reservations.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall process billing within 5 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to prescriptions.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of restaurants.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Users can search fines using keywords.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process loans within 3 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 6128 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for fines.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update projects through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application must support up to 31164 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of loans.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 20 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage delivery tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to shipments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 510 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for suppliers.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Administrators shall generate reports for payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 19 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support exporting recruitment data.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to orders.",
+    "label": "functional"
+  },
+  {
+    "text": "All transactions data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to payments.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of prescriptions.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 751 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The platform should maintain 97 percent uptime.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Managers can update patients through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for catalog.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage lectures.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of orders.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to delivery tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "Administrators shall generate reports for deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "Customers can view details related to ISBN.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 522 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall recover from failures within 10 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The software should maintain a history of restaurants.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update ISBN through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "All recruitment data shall be encrypted during transmission.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage menus.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update reservations through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "All deadlines logs shall be retained for 310 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All employees logs shall be retained for 271 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage availability.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall process students within 10 seconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of transactions.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 25306 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "All reservations logs shall be retained for 200 days.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to medical records.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall support scalable handling of quizzes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The application must support up to 26583 concurrent users.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 645 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Customers can view details related to recruitment.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to appointments.",
+    "label": "functional"
+  },
+  {
+    "text": "Managers can update wishlist through the dashboard.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in recruitment.",
+    "label": "functional"
+  },
+  {
+    "text": "The system must maintain response time below 902 milliseconds.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to suppliers.",
+    "label": "functional"
+  },
+  {
+    "text": "The application should support mobile and desktop access for projects.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall support scalable handling of employees.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system shall allow users to manage billing.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform shall notify users about changes in menus.",
+    "label": "functional"
+  },
+  {
+    "text": "The platform should comply with GDPR standards for check-in.",
+    "label": "non-functional"
+  },
+  {
+    "text": "Employees can upload documents related to check-in.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall allow users to manage attendance.",
+    "label": "functional"
+  },
+  {
+    "text": "Employees can upload documents related to delivery tracking.",
+    "label": "functional"
+  },
+  {
+    "text": "The software should maintain a history of deadlines.",
+    "label": "functional"
+  },
+  {
+    "text": "The system shall recover from failures within 8 minutes.",
+    "label": "non-functional"
+  },
+  {
+    "text": "The system must maintain response time below 734 milliseconds.",
+    "label": "non-functional"
+  }
+]

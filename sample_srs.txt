@@ -1,0 +1,31 @@
+Software Requirements Specification - Project Alpha v1.0
+
+1. User Authentication
+The system shall allow users to log in using a username and password.
+The system shall enable new users to register an account with email verification.
+The system shall allow users to reset their password through a secure email link.
+The system must enforce two-factor authentication for all administrator accounts.
+The system must prevent unauthorized access to user data and system resources.
+
+2. Dashboard and UI
+The system must display a project dashboard after successful login.
+The system shall show real-time task status updates on the main dashboard.
+The system should provide a summary of pending and completed requirements.
+
+3. Requirements Management
+The system shall allow project managers to upload requirement documents in TXT format.
+The system must extract requirements automatically from uploaded documents.
+The system shall classify each requirement as functional or non-functional.
+The system must detect duplicate or conflicting requirements across multiple documents.
+
+4. Task Management
+The system shall generate development tasks from all validated requirements.
+The system must assign tasks to employees based on their skills and current workload.
+The system shall allow task status to be updated to TODO IN PROGRESS or DONE.
+
+5. Performance and Security
+The system shall respond to all user requests within 2 seconds under normal load.
+The system must encrypt all user data at rest and in transit using industry standards.
+The system shall be available 99.9 percent of the time excluding planned maintenance.
+The system should be scalable to handle up to 5000 concurrent users.
+The system must log all user actions for audit trail and compliance purposes.

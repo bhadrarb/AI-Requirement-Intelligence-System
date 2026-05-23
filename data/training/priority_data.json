@@ -1,0 +1,7002 @@
+[
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Customers shall receive notifications related to UPI payment.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Admins can configure settings for payment gateway.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall integrate with external services for kanban board.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall process customer verification requests within 9 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "show tooltip",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall recover from failures within check-in process minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users shall be able to monitor team dashboard in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Employees can upload documents related to UPI payment.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall recover from failures within prescription management minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall automatically back up leave approval every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support scalable handling of leave approval.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for kanban board.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to sprint reports.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users can search payment gateway using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to export transaction history data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall allow users to manage warehouse management.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to monitor emergency alerts in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users can search attendance tracking using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall support scalable handling of order tracking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform must support up to 99324 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Customers shall receive notifications related to booking cancellation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to monitor policy renewal in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall implement real-time analytics pipeline.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain high availability for order tracking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall automatically back up team dashboard every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Employees can upload documents related to course enrollment.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to monitor traceability matrix in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for employee onboarding.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to export ATM withdrawal data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The software shall maintain a history of notification delivery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall integrate with external services for warehouse management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall recover from failures within kanban board minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The software shall maintain a history of ATM withdrawal.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to export policy renewal data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Employees can upload documents related to patient records.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application should support mobile and desktop access for warehouse management.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application should support mobile and desktop access for claim submission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users shall be able to export fraud verification data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall support scalable handling of traceability matrix.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall automatically back up inventory sync every 24 hours.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow users to manage UPI payment.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for claim submission.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All payment confirmation logs shall be retained for 229 days.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users shall be able to export room reservation data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall automatically back up shipment tracking every 24 hours.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain high availability for payment confirmation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for order tracking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support scalable handling of course enrollment.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain high availability for employee onboarding.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to export traceability matrix data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users can search policy renewal using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Insurance"
+  },
+  {
+    "text": "add pagination",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Users shall be able to export sprint reports data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to fraud detection.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform must support up to 34157 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for video lectures.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain 98.15 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The response time for fund transfer shall remain below 545 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users can search performance review using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall maintain high availability for warehouse management.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall allow users to manage traceability matrix.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support friend requests.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Customers shall receive notifications related to shopping cart.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Managers can update lab report generation through the dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall allow users to manage payment gateway.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users can search shipment tracking using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain 96.0 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support warehouse management.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall recover from failures within fraud verification minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users can search credit card blocking using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 96.99 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Employees can upload documents related to fraud verification.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for fraud verification.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All shipment tracking logs shall be retained for 237 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All payment gateway data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow users to manage payment gateway.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall integrate with external services for appointment booking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application should support mobile and desktop access for employee onboarding.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Managers can update content moderation through the dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall support performance review.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for traceability matrix.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain high availability for check-in process.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Employees can upload documents related to wishlist.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The software shall maintain a history of fund transfer.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 96.04 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Administrators shall generate reports for friend requests.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall support assignment tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Administrators shall generate reports for attendance tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Managers can update shopping cart through the dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to export traceability matrix data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for appointment booking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall allow users to manage availability search.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application shall automatically validate patient records.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to export task assignment data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for fraud detection.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "All traceability matrix logs shall be retained for 219 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for room reservation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application shall automatically validate room reservation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "All customer verification logs shall be retained for 155 days.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The application shall automatically validate policy renewal.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All post sharing data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "All task assignment data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for booking cancellation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Admins can configure settings for payment confirmation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall process UPI payment requests within 1 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Employees can upload documents related to performance review.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users can search transaction history using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Managers can update fleet monitoring through the dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Employees can upload documents related to assignment tracking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "add pagination",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall integrate with external services for wishlist.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall allow users to manage appointment booking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Admins can configure settings for attendance tracking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to export certificate generation data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Employees can upload documents related to customer verification.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall automatically back up route optimization every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Customers shall receive notifications related to fraud verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Customers shall receive notifications related to transaction history.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform must support up to 1438 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The response time for ATM withdrawal shall remain below 938 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "update UI labels",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users can search transaction history using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Managers can update fleet monitoring through the dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall automatically validate quiz submission.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to export patient records data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The response time for real-time chat shall remain below 184 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Users shall be able to monitor notification delivery in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "All UPI payment logs shall be retained for 336 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform must support up to 36736 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to coupon validation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Managers can update shopping cart through the dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The software shall maintain a history of payroll generation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall recover from failures within loan approval minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The response time for wishlist shall remain below 677 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "update UI labels",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall automatically validate claim submission.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for kanban board.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "show tooltip",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow users to manage performance review.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall process patient records requests within 2 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support scalable handling of requirement upload.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Managers can update payroll generation through the dashboard.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "show tooltip",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Managers can update inventory sync through the dashboard.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Customers shall receive notifications related to delivery scheduling.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Admins can configure settings for assignment tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for inventory sync.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow users to manage employee onboarding.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall allow users to manage claim submission.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The application shall automatically validate booking cancellation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall recover from failures within delivery scheduling minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Employees can upload documents related to shipment tracking.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to export kanban board data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall allow users to manage customer verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall automatically back up task assignment every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Admins can configure settings for payment confirmation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Employees can upload documents related to product review.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application should support mobile and desktop access for loan approval.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain high availability for team dashboard.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The response time for shopping cart shall remain below 284 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall recover from failures within course enrollment minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users can search sprint reports using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall automatically back up appointment booking every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall automatically validate policy renewal.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Admins can configure settings for appointment booking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to monitor payment confirmation in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain high availability for content moderation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall support assignment tracking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "All post sharing data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to export claim submission data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for traceability matrix.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 98.91 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall support fleet monitoring.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users can search performance review using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Admins can configure settings for room reservation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "All post sharing logs shall be retained for 328 days.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Customers shall receive notifications related to assignment tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall automatically validate performance review.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The response time for ATM withdrawal shall remain below 544 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for sprint reports.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall process doctor scheduling requests within 2 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain high availability for check-in process.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain 95.04 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for lab report generation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain high availability for premium calculation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Admins can configure settings for policy renewal.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall integrate with external services for customer verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The application shall support room reservation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "All transaction history logs shall be retained for 295 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall automatically back up post sharing every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to delivery scheduling.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall recover from failures within performance review minutes.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to monitor leave approval in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The application shall automatically validate appointment booking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform must support up to 66469 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The software shall maintain a history of coupon validation.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Admins can configure settings for route optimization.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "show tooltip",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall allow users to manage leave approval.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application shall support traceability matrix.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall automatically back up customer verification every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users shall be able to export quiz submission data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support scalable handling of ATM withdrawal.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "All doctor scheduling data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall allow users to manage route optimization.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain 96.48 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Admins can configure settings for UPI payment.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Employees can upload documents related to lab report generation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users can search shipment tracking using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to export shopping cart data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All patient records data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall recover from failures within team dashboard minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall recover from failures within leave approval minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall process availability search requests within 5 seconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The response time for attendance tracking shall remain below 489 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain 95.52 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall support route optimization.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain high availability for shopping cart.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Admins can configure settings for employee onboarding.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Employees can upload documents related to fleet monitoring.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The response time for wishlist shall remain below 194 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All notification delivery logs shall be retained for 162 days.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall maintain 96.8 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Admins can configure settings for prescription management.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for prescription management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The response time for warehouse management shall remain below 571 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Customers shall receive notifications related to shipment tracking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All quiz submission data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall implement real-time analytics pipeline.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Admins can configure settings for patient records.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain 95.83 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The application shall support employee onboarding.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform must support up to 20623 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to monitor availability search in real time.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall allow users to manage premium calculation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Admins can configure settings for kanban board.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 97.8 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The software shall maintain a history of certificate generation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain high availability for credit card blocking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Managers can update room reservation through the dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users can search course enrollment using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for patient records.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "All team dashboard logs shall be retained for 217 days.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Employees can upload documents related to emergency alerts.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The software shall maintain a history of quiz submission.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to monitor room reservation in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "All warehouse management data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The software shall maintain a history of appointment booking.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Administrators shall generate reports for order tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to monitor credit card blocking in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall automatically validate fund transfer.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 98.34 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall process payment confirmation requests within 8 seconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "All performance review data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The application shall support route optimization.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall automatically validate fraud detection.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support payment gateway.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users shall be able to monitor appointment booking in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to monitor credit card blocking in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain high availability for shipment tracking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall support product review.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for leave approval.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Administrators shall generate reports for fund transfer.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "All real-time chat data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall maintain high availability for availability search.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application shall automatically validate room reservation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall support scalable handling of fleet monitoring.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The software shall maintain a history of transaction history.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall integrate with external services for customer verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Admins can configure settings for employee onboarding.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to monitor fraud verification in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users shall be able to monitor product review in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Managers can update coupon validation through the dashboard.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users can search customer verification using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall allow users to manage order tracking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application should support mobile and desktop access for assignment tracking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall recover from failures within ATM withdrawal minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "add pagination",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall process shipment tracking requests within 2 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application should support mobile and desktop access for assignment tracking.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain 97.82 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support check-in process.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for notification delivery.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application should support mobile and desktop access for ATM withdrawal.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform must support up to 15683 concurrent users.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The software shall maintain a history of payment confirmation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users can search order tracking using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Customers shall receive notifications related to delivery scheduling.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Administrators shall generate reports for fleet monitoring.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall support scalable handling of order tracking.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall process warehouse management requests within 6 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Administrators shall generate reports for kanban board.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for leave approval.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The software shall maintain a history of customer verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The software shall maintain a history of loan approval.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Managers can update emergency alerts through the dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Employees can upload documents related to ATM withdrawal.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support check-in process.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users shall be able to monitor booking cancellation in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall integrate with external services for fraud verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall integrate with external services for payment confirmation.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for fleet monitoring.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All quiz submission logs shall be retained for 66 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to monitor lab report generation in real time.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall process order tracking requests within 7 seconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "HR Management"
+  },
+  {
+    "text": "All booking cancellation data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application shall support traceability matrix.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain high availability for loan approval.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "All attendance tracking logs shall be retained for 269 days.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "All room reservation logs shall be retained for 123 days.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application shall support fraud verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform must support up to 35648 concurrent users.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users can search claim submission using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The application shall automatically validate claim submission.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall maintain high availability for warehouse management.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall automatically validate team dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall process notification delivery requests within 10 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for doctor scheduling.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Managers can update delivery scheduling through the dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Customers shall receive notifications related to payroll generation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall support scalable handling of appointment booking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall allow users to manage UPI payment.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The response time for availability search shall remain below 125 milliseconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "add pagination",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform must support up to 23354 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall recover from failures within customer verification minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Employees can upload documents related to order tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform must support up to 23870 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support scalable handling of delivery scheduling.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall automatically back up post sharing every 24 hours.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall support payment confirmation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain high availability for credit card blocking.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Administrators shall generate reports for sprint reports.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Employees can upload documents related to UPI payment.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for claim submission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall automatically back up route optimization every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall process fraud verification requests within 3 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application shall support kanban board.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for fraud verification.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The response time for credit card blocking shall remain below 819 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for task assignment.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall automatically back up warehouse management every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall integrate with external services for course enrollment.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users can search product review using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall automatically back up performance review every 24 hours.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall process certificate generation requests within 10 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for requirement upload.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users can search route optimization using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Admins can configure settings for fleet monitoring.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application should support mobile and desktop access for coupon validation.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The response time for check-in process shall remain below 652 milliseconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for warehouse management.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain high availability for warehouse management.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All payment gateway data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Administrators shall generate reports for check-in process.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain 95.23 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to patient records.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support scalable handling of coupon validation.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The response time for premium calculation shall remain below 118 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All leave approval logs shall be retained for 266 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The software shall maintain a history of shopping cart.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support scalable handling of availability search.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users shall be able to monitor content moderation in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for team dashboard.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to video lectures.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "All fraud verification data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for availability search.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Administrators shall generate reports for quiz submission.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support scalable handling of availability search.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall automatically back up leave approval every 24 hours.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Hospital"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain high availability for shopping cart.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to monitor traceability matrix in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "add pagination",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall automatically back up friend requests every 24 hours.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Users shall be able to export emergency alerts data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall support prescription management.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "add pagination",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The application should support mobile and desktop access for kanban board.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Admins can configure settings for product review.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain high availability for video lectures.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to warehouse management.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The response time for payment gateway shall remain below 775 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform must support up to 9774 concurrent users.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support scalable handling of notification delivery.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall allow users to manage delivery scheduling.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform must support up to 44509 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall integrate with external services for assignment tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall implement real-time analytics pipeline.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The software shall maintain a history of emergency alerts.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Administrators shall generate reports for policy renewal.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall process lab report generation requests within 2 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall recover from failures within fleet monitoring minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All employee onboarding data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The application shall automatically validate inventory sync.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The software shall maintain a history of wishlist.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application should support mobile and desktop access for fraud detection.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "add pagination",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Administrators shall generate reports for fraud detection.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to shipment tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall support fraud detection.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain high availability for leave approval.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "All claim submission logs shall be retained for 45 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Employees can upload documents related to warehouse management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall allow users to manage loan approval.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "add pagination",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall implement real-time analytics pipeline.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users can search premium calculation using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Administrators shall generate reports for notification delivery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform must support up to 95141 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall maintain high availability for shopping cart.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All traceability matrix logs shall be retained for 273 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for fleet monitoring.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall implement real-time analytics pipeline.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The response time for lab report generation shall remain below 300 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Admins can configure settings for check-in process.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain high availability for fraud verification.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for route optimization.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall support policy renewal.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Insurance"
+  },
+  {
+    "text": "add pagination",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Administrators shall generate reports for UPI payment.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users shall be able to monitor inventory sync in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to export policy renewal data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users shall be able to export order tracking data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All transaction history data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall recover from failures within route optimization minutes.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Admins can configure settings for emergency alerts.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for assignment tracking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Employees can upload documents related to wishlist.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow users to manage course enrollment.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall recover from failures within fraud detection minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "Admins can configure settings for claim submission.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Insurance"
+  },
+  {
+    "text": "show tooltip",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The response time for inventory sync shall remain below 665 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "show tooltip",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall implement real-time analytics pipeline.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall allow users to manage wishlist.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support warehouse management.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Managers can update shopping cart through the dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users can search certificate generation using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Administrators shall generate reports for team dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform must support up to 28864 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "update UI labels",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "update UI labels",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for doctor scheduling.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The software shall maintain a history of coupon validation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain 96.56 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "update UI labels",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to loan approval.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The software shall maintain a history of check-in process.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "All fraud verification logs shall be retained for 232 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall recover from failures within claim submission minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users can search customer verification using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform must support up to 13889 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall support scalable handling of lab report generation.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support scalable handling of fleet monitoring.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Managers can update route optimization through the dashboard.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform must support up to 46221 concurrent users.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The response time for friend requests shall remain below 325 milliseconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall integrate with external services for lab report generation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall process shopping cart requests within 2 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The software shall maintain a history of leave approval.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The application shall automatically validate payment gateway.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application should support mobile and desktop access for traceability matrix.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "show tooltip",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The software shall maintain a history of shipment tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All ATM withdrawal data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Employees can upload documents related to payment confirmation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Admins can configure settings for emergency alerts.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall integrate with external services for doctor scheduling.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The software shall maintain a history of video lectures.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for route optimization.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall integrate with external services for real-time chat.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application should support mobile and desktop access for certificate generation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "All claim submission data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "All assignment tracking data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall support policy renewal.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All lab report generation data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "show tooltip",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall maintain high availability for post sharing.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "All fraud verification data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Managers can update fraud verification through the dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All friend requests data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for booking cancellation.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "update UI labels",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow users to manage delivery scheduling.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The software shall maintain a history of task assignment.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall support task assignment.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall process availability search requests within 8 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for shopping cart.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow users to manage prescription management.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to export lab report generation data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform must support up to 67973 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall recover from failures within payment confirmation minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for notification delivery.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for shipment tracking.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All policy renewal logs shall be retained for 69 days.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All employee onboarding data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall process requirement upload requests within 4 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to notification delivery.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Employees can upload documents related to doctor scheduling.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to monitor credit card blocking in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The response time for fund transfer shall remain below 852 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The software shall maintain a history of inventory sync.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users can search friend requests using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Users can search wishlist using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The response time for notification delivery shall remain below 319 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "show tooltip",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Employees can upload documents related to assignment tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users can search payroll generation using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The software shall maintain a history of leave approval.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users can search order tracking using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for post sharing.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The software shall maintain a history of notification delivery.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Admins can configure settings for credit card blocking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall support scalable handling of course enrollment.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "update UI labels",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The software shall maintain a history of coupon validation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform must support up to 48054 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to monitor real-time chat in real time.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform must support up to 90852 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Customers shall receive notifications related to fraud verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All traceability matrix logs shall be retained for 204 days.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "All video lectures logs shall be retained for 137 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to inventory sync.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "update UI labels",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for kanban board.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall maintain 96.24 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "show tooltip",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "All availability search logs shall be retained for 64 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users can search doctor scheduling using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall support shopping cart.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Admins can configure settings for claim submission.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All room reservation data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall integrate with external services for prescription management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Administrators shall generate reports for kanban board.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The response time for payroll generation shall remain below 737 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for room reservation.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "All requirement upload logs shall be retained for 176 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Admins can configure settings for attendance tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall maintain 95.24 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Administrators shall generate reports for route optimization.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The software shall maintain a history of claim submission.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All payment confirmation data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain 98.57 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Managers can update course enrollment through the dashboard.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Managers can update route optimization through the dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain high availability for real-time chat.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "All quiz submission data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall automatically validate route optimization.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall automatically validate content moderation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for coupon validation.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Customers shall receive notifications related to check-in process.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The software shall maintain a history of shipment tracking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain high availability for leave approval.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The software shall maintain a history of video lectures.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "All task assignment data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 96.65 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The software shall maintain a history of team dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for inventory sync.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall support course enrollment.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain 98.44 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users shall be able to export leave approval data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "All fund transfer logs shall be retained for 147 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 96.01 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall automatically validate warehouse management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to export assignment tracking data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "All customer verification logs shall be retained for 340 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users can search friend requests using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall maintain 97.39 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for order tracking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain 98.43 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall recover from failures within friend requests minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The software shall maintain a history of quiz submission.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application shall automatically validate inventory sync.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The response time for performance review shall remain below 949 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall process notification delivery requests within 1 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall maintain high availability for content moderation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall automatically back up friend requests every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall automatically back up leave approval every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for shipment tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall process post sharing requests within 2 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The response time for payroll generation shall remain below 615 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall automatically back up coupon validation every 24 hours.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to export traceability matrix data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall automatically validate prescription management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall recover from failures within check-in process minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The software shall maintain a history of video lectures.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The response time for notification delivery shall remain below 901 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall support scalable handling of notification delivery.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application should support mobile and desktop access for doctor scheduling.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "All sprint reports data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support fraud verification.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall implement real-time analytics pipeline.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall allow users to manage warehouse management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to export task assignment data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users can search kanban board using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 96.57 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Admins can configure settings for booking cancellation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall process employee onboarding requests within 2 seconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform must support up to 24413 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform must support up to 94535 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "show tooltip",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The software shall maintain a history of emergency alerts.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall support scalable handling of credit card blocking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "All appointment booking data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to monitor payment confirmation in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The software shall maintain a history of fraud detection.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Admins can configure settings for real-time chat.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform must support up to 24227 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall automatically validate video lectures.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "update UI labels",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall maintain high availability for team dashboard.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for requirement upload.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 96.24 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform must support up to 79156 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall recover from failures within shipment tracking minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall integrate with external services for kanban board.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform must support up to 98725 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The application shall support payment gateway.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Employees can upload documents related to room reservation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users shall be able to export video lectures data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Admins can configure settings for credit card blocking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Admins can configure settings for premium calculation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall allow users to manage performance review.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall maintain 96.84 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for payment gateway.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The software shall maintain a history of order tracking.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All content moderation data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall support scalable handling of fund transfer.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall implement real-time analytics pipeline.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall recover from failures within product review minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to monitor post sharing in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall automatically validate quiz submission.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users shall be able to monitor ATM withdrawal in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "All ATM withdrawal data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall integrate with external services for coupon validation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Employees can upload documents related to requirement upload.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to customer verification.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall maintain high availability for leave approval.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for performance review.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Managers can update delivery scheduling through the dashboard.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain high availability for route optimization.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The response time for customer verification shall remain below 848 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All prescription management logs shall be retained for 281 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain 96.05 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform must support up to 10609 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall support scalable handling of claim submission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall recover from failures within payment gateway minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall integrate with external services for delivery scheduling.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform must support up to 93382 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall recover from failures within customer verification minutes.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The application shall support fleet monitoring.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall automatically validate warehouse management.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All real-time chat logs shall be retained for 263 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to monitor claim submission in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Administrators shall generate reports for payment confirmation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application shall support coupon validation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All shopping cart data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall recover from failures within payment confirmation minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The response time for sprint reports shall remain below 350 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall automatically back up employee onboarding every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to export lab report generation data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Employees can upload documents related to kanban board.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application should support mobile and desktop access for premium calculation.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall integrate with external services for certificate generation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Customers shall receive notifications related to content moderation.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for delivery scheduling.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to export real-time chat data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Users shall be able to export payroll generation data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain 96.31 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall process shipment tracking requests within 8 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain high availability for employee onboarding.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "All appointment booking logs shall be retained for 299 days.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall support route optimization.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "update UI labels",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All leave approval logs shall be retained for 272 days.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "update UI labels",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The response time for fund transfer shall remain below 605 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall automatically back up shipment tracking every 24 hours.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall recover from failures within kanban board minutes.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for claim submission.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All video lectures data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall automatically back up coupon validation every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall support scalable handling of payroll generation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to export employee onboarding data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users can search coupon validation using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The response time for shopping cart shall remain below 640 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "add pagination",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall maintain high availability for employee onboarding.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall maintain 98.46 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall automatically validate content moderation.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Admins can configure settings for fund transfer.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "All appointment booking logs shall be retained for 114 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application should support mobile and desktop access for delivery scheduling.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain 96.82 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall support scalable handling of inventory sync.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The software shall maintain a history of real-time chat.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Admins can configure settings for emergency alerts.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Employees can upload documents related to employee onboarding.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to monitor ATM withdrawal in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "Admins can configure settings for ATM withdrawal.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to export payment confirmation data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for requirement upload.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall support scalable handling of appointment booking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall recover from failures within lab report generation minutes.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall process assignment tracking requests within 1 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for fleet monitoring.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Employees can upload documents related to emergency alerts.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall implement OAuth2 and SSO integration.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall recover from failures within leave approval minutes.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for leave approval.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The software shall maintain a history of payment gateway.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users shall be able to monitor credit card blocking in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall recover from failures within fleet monitoring minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The software shall maintain a history of post sharing.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall support patient records.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "All room reservation data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall process attendance tracking requests within 10 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for content moderation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application should support mobile and desktop access for customer verification.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Users shall be able to monitor quiz submission in real time.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application should support mobile and desktop access for order tracking.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform must support up to 86238 concurrent users.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall recover from failures within prescription management minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform must support up to 28642 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall allow users to manage inventory sync.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All employee onboarding data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Employees can upload documents related to claim submission.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All appointment booking logs shall be retained for 357 days.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall process kanban board requests within 7 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall automatically validate fraud detection.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users can search appointment booking using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall implement microservice orchestration.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Employees can upload documents related to appointment booking.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain 97.45 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All delivery scheduling logs shall be retained for 283 days.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Employees can upload documents related to order tracking.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "add pagination",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application should support mobile and desktop access for room reservation.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Administrators shall generate reports for post sharing.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall integrate with external services for route optimization.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall automatically validate claim submission.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall automatically back up kanban board every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users can search delivery scheduling using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall allow users to manage payment gateway.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The platform shall integrate with external services for claim submission.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "All check-in process logs shall be retained for 151 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Employees can upload documents related to premium calculation.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The software shall maintain a history of product review.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "All credit card blocking data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 97.42 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "All shipment tracking data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application should support mobile and desktop access for room reservation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users can search friend requests using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall integrate with external services for premium calculation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The response time for loan approval shall remain below 621 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform must support up to 58711 concurrent users.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Admins can configure settings for prescription management.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "All customer verification logs shall be retained for 205 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for loan approval.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "All course enrollment data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "update UI labels",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall automatically back up claim submission every 24 hours.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for delivery scheduling.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The platform shall automatically back up emergency alerts every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The application shall automatically validate transaction history.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to export real-time chat data.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall integrate with external services for real-time chat.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application shall automatically validate UPI payment.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall recover from failures within shipment tracking minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Administrators shall generate reports for ATM withdrawal.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall process shipment tracking requests within 8 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "show tooltip",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall support fraud detection.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for ATM withdrawal.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Managers can update appointment booking through the dashboard.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall maintain 97.57 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Users shall be able to monitor performance review in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Managers can update friend requests through the dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The application should support mobile and desktop access for doctor scheduling.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Employees can upload documents related to real-time chat.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Admins can configure settings for booking cancellation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The platform shall recover from failures within notification delivery minutes.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall process performance review requests within 1 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall allow users to manage performance review.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for fund transfer.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The software shall maintain a history of prescription management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall allow users to manage product review.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Users can search task assignment using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "All route optimization logs shall be retained for 327 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Users shall be able to monitor room reservation in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The application should support mobile and desktop access for payroll generation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall support scalable handling of certificate generation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The application should support mobile and desktop access for shipment tracking.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain high availability for shipment tracking.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall process inventory sync requests within 9 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The application shall automatically validate patient records.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The response time for fund transfer shall remain below 379 milliseconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 96.89 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "Administrators shall generate reports for fraud detection.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 95.97 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "All assignment tracking logs shall be retained for 94 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform must support up to 33006 concurrent users.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Logistics"
+  },
+  {
+    "text": "Administrators shall generate reports for delivery scheduling.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall maintain 98.14 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "All fraud detection data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall process certificate generation requests within 7 seconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to monitor transaction history in real time.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall automatically validate video lectures.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain 96.55 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall process requirement upload requests within 4 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Administrators shall generate reports for employee onboarding.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall integrate with external services for task assignment.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement AI-based fraud detection.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The software shall maintain a history of product review.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall allow users to manage performance review.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "All course enrollment data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Users can search friend requests using filters.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Customers shall receive notifications related to course enrollment.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to content moderation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The software shall maintain a history of notification delivery.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to monitor friend requests in real time.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Social Media"
+  },
+  {
+    "text": "show tooltip",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "All room reservation logs shall be retained for 312 days.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall support scalable handling of warehouse management.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall allow users to manage prescription management.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall automatically back up kanban board every 24 hours.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The platform shall automatically back up quiz submission every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "All fraud verification data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall maintain 96.83 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Administrators shall generate reports for quiz submission.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Admins can configure settings for appointment booking.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users can search customer verification using filters.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Insurance"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "Users shall be able to export premium calculation data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The platform shall integrate with external services for credit card blocking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Banking"
+  },
+  {
+    "text": "fix login typo",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Project Management"
+  },
+  {
+    "text": "Users shall be able to monitor availability search in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Users can search appointment booking using filters.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for fraud verification.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall process transaction history requests within 3 seconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for payment confirmation.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall allow users to manage certificate generation.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform must support up to 91384 concurrent users.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "fix login typo",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to export attendance tracking data.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall process assignment tracking requests within 10 seconds.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall process real-time chat requests within 3 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "update UI labels",
+    "type": "functional",
+    "priority": "high",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The system shall allow users to manage shipment tracking.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The software shall maintain a history of attendance tracking.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The software shall maintain a history of transaction history.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall integrate with external services for credit card blocking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall automatically validate lab report generation.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Hospital"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for product review.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall maintain 98.7 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement distributed caching architecture.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Admins can configure settings for fund transfer.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "Admins can configure settings for doctor scheduling.",
+    "type": "functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to monitor UPI payment in real time.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The application shall automatically validate course enrollment.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 1,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The platform must support up to 10558 concurrent users.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain high availability for claim submission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "Insurance"
+  },
+  {
+    "text": "The system shall maintain 96.63 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 13,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Employees can upload documents related to attendance tracking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The platform shall automatically back up assignment tracking every 24 hours.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain 95.61 percent uptime.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Customers shall receive notifications related to appointment booking.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to export post sharing data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Social Media"
+  },
+  {
+    "text": "All employee onboarding data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "high",
+    "effort": 3,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The system shall maintain 95.76 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All booking cancellation data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall process payment gateway requests within 4 seconds.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support scalable handling of loan approval.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Banking"
+  },
+  {
+    "text": "The system shall maintain 98.4 percent uptime.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Admins can configure settings for UPI payment.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Banking"
+  },
+  {
+    "text": "The platform shall recover from failures within payroll generation minutes.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "HR Management"
+  },
+  {
+    "text": "The software shall maintain a history of room reservation.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 8,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Managers can update payroll generation through the dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "HR Management"
+  },
+  {
+    "text": "Employees can upload documents related to warehouse management.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Logistics"
+  },
+  {
+    "text": "display welcome banner",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 1,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The platform shall comply with GDPR standards for notification delivery.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall maintain 96.69 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Admins can configure settings for inventory sync.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "Administrators shall generate reports for shipment tracking.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "The application shall support availability search.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "The system shall maintain 95.91 percent uptime.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "All post sharing data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 3,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The system shall process delivery scheduling requests within 3 seconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "All sprint reports data shall be encrypted during transmission.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The system shall implement multi-region failover recovery.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Ecommerce"
+  },
+  {
+    "text": "The system shall support scalable handling of course enrollment.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Learning Management"
+  },
+  {
+    "text": "The system shall maintain high availability for content moderation.",
+    "type": "non-functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "The response time for lab report generation shall remain below 831 milliseconds.",
+    "type": "non-functional",
+    "priority": "medium",
+    "effort": 8,
+    "domain": "Hospital"
+  },
+  {
+    "text": "Users shall be able to export payment confirmation data.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 2,
+    "domain": "Hotel Booking"
+  },
+  {
+    "text": "Administrators shall generate reports for content moderation.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 5,
+    "domain": "Social Media"
+  },
+  {
+    "text": "Admins can configure settings for team dashboard.",
+    "type": "functional",
+    "priority": "medium",
+    "effort": 5,
+    "domain": "Project Management"
+  },
+  {
+    "text": "The application shall support warehouse management.",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "Logistics"
+  },
+  {
+    "text": "enable dark mode",
+    "type": "functional",
+    "priority": "low",
+    "effort": 2,
+    "domain": "HR Management"
+  }
+]

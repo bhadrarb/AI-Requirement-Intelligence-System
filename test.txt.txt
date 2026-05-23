@@ -1,0 +1,1 @@
+ The system shall allow users to log in. The system shall encrypt all passwords. The system shall be available 99.9 percent of the time.
