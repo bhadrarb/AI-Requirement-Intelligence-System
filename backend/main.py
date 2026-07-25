@@ -25,10 +25,16 @@ import traceback
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from typing import List, Optional
+from typing import List, Optional, Annotated
 from pipeline import run_pipeline
 
-app = FastAPI(title="Requirement Intelligence System", version="3.0")
+from fastapi.openapi.docs import get_swagger_ui_html
+
+app = FastAPI(
+    title="Requirement Intelligence System",
+    version="3.0",
+    openapi_version="3.0.3"
+)
 
 app.add_middleware(
     CORSMiddleware,
@@ -136,26 +142,39 @@ def extract_pdf_text(filepath: str) -> str:
 def health():
     return {"status": "ok", "message": "Requirement Intelligence System v3.0 is running"}
 
-
 @app.post("/upload")
-async def upload_files(files: List[UploadFile] = File(...)):
+async def upload_files(
+    files: Annotated[list[UploadFile], File(...)]
+):
     os.makedirs(UPLOAD_DIR, exist_ok=True)
     saved = []
+
     for file in files:
         if not file.filename:
             continue
+
         ext = os.path.splitext(file.filename)[1].lower()
         if ext not in [".txt", ".pdf"]:
             continue
+
         dest = os.path.join(UPLOAD_DIR, file.filename)
-        file.file.seek(0)
+
         with open(dest, "wb") as f:
             shutil.copyfileobj(file.file, f)
-        saved.append(file.filename)
-    if not saved:
-        raise HTTPException(status_code=400, detail="No valid .txt or .pdf files uploaded.")
-    return {"message": f"{len(saved)} file(s) uploaded", "files": saved, "file_count": len(saved)}
 
+        saved.append(file.filename)
+
+    if not saved:
+        raise HTTPException(
+            status_code=400,
+            detail="No valid .txt or .pdf files uploaded."
+        )
+
+    return {
+        "message": f"{len(saved)} file(s) uploaded",
+        "files": saved,
+        "file_count": len(saved)
+    }
 
 @app.post("/run")
 async def run_analysis(request: RunRequest):
